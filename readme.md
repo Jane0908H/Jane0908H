@@ -1,6 +1,8 @@
 # <b>Hello! I am Jane Hill<img width="50" src="https://i.pinimg.com/originals/c5/f5/05/c5f5055d17a01239f44333f851e6b89e.gif"></b>
 <p align="center">
-  <img align="center" src="logo4.jpg" style = "width: 100%;"/>
+  <img align="center" src="logo2.jpg"/>
+  <img align="center" src="logo3.jpg"/>
+  <img align="center" src="logo4.jpg"/>
 </p>
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
@@ -8,7 +10,7 @@
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
   <a href="https://join.skype.com/invite/A3T4pSMKQgoA"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join&color=7289DA" alt="Join Badge"/></a>
 </h1> 
-  <p>
+  <p style="fontSize:15px">
  Full Stack Developer with 5+ years of experience building and deploying production web applications
   using JavaScript, Node.js, React, and Django. Strong background in backend API development, database
   design, and cloud deployment using AWS and Docker. Experienced in delivering scalable systems from
