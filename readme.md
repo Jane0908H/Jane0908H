@@ -1,6 +1,6 @@
 # <b>Hello! I am Jane Hill<img width="50" src="https://i.pinimg.com/originals/c5/f5/05/c5f5055d17a01239f44333f851e6b89e.gif"></b>
 <p align="center">
-  <img align="center" src="logo4.jpg" style = "width: 100%;"/>
+  <img align="center" src="logo2.jpg" style = "width: 100%;"/>
 </p>
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
