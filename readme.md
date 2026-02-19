@@ -9,7 +9,7 @@
 </h1>
 <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
   <p>
- Full Stack Developer with 4+ years of experience building and deploying production web applications
+ Full Stack Developer with 5+ years of experience building and deploying production web applications
   using JavaScript, Node.js, React, and Django. Strong background in backend API development, database
   design, and cloud deployment using AWS and Docker. Experienced in delivering scalable systems from
   architecture design through production release in fast-paced environments
@@ -37,27 +37,11 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="100"></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/asp-3-226071.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="100"></td>
   </tr>
-</table>
-
-## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
-
-<img align="right" alt="GIF" src="images.jfif" width="400" />
- 
-### WEB & DAPP
-<br />
-
-### NFT GAME & Smart Contract
-<br />
-
-### Crypto Trading Platforms & Bots
-<br />
-
-### Mobile application
+</table> 
 
  
