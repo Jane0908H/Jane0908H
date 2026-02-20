@@ -22,12 +22,13 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
 <img align="right" src="https://img.shields.io/github/followers/alexandera73?label=Follow&style=social" />
 
+
+
+<h1 align="center"></h1>
 <summary><h2>📊 Github Activity</h2></summary>
 
 <img alt="Jane0908H's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Jane0908H&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   <br>
-  
-<h1 align="center"></h1>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
