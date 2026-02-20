@@ -19,13 +19,14 @@
 <p align="center">
   <a href="https://github.com/Kilros0817"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full%20Stack%20Developer;5+%2B%20years%20of%20extensive%20experience;&center=true&width=800&height=45"></a>
 </p>
+<!-- <div align="center">
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
 <img align="right" src="https://img.shields.io/github/followers/alexandera73?label=Follow&style=social" />
-
+</dev> -->
 
 
 <h1 align="center"></h1>
-<summary><h2>📊 Github Activity</h2></summary>
+<h2>📊 Github Activity</h2>
 
 <img alt="Jane0908H's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Jane0908H&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   <br>
